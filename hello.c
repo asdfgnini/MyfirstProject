@@ -1,3 +1,4 @@
+//该文件用于测试
 #include <stdio.h>
 
 void add(int* a.int* b)
